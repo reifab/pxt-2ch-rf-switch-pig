@@ -3,7 +3,6 @@
 
 ## Projektbeschreibung
 Diese einfache MakeCode- Erweiterung dient zur Steuerung einer selbstentwickelten Funksteckdose.
-![Schaltschwein](https://github.com/reifab/pxt-2ch-rf-switch-pig/blob/master/picture-pig.jpg?raw=true)
 
 ## Als Erweiterung verwenden
 
